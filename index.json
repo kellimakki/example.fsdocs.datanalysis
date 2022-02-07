@@ -1,0 +1,1 @@
+[{"uri":"/example.fsdocs.datanalysis/index.html","title":"index","content":"This is my page and I am definitely not going to tell you my name."},{"uri":"/example.fsdocs.datanalysis/page1.html","title":"page1","content":"(**\n## This is my first page\n*)\n\nprintfn \u0022hello world from F# made by the best developer in the world\u0022\n(***include-fsi-output***)"}]
